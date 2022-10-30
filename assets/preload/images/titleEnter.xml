@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER PRESSED0000" x="0" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0001" x="591" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0002" x="0" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0003" x="591" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0004" x="0" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0005" x="591" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0006" x="0" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="ENTER PRESSED0007" x="591" y="0" width="591" height="125" frameX="-240" frameY="0" frameWidth="591" frameHeight="125"/>/>
+	<SubTexture name="Press Enter to Begin0000" x="1182" y="0" width="575" height="111" frameX="-250" frameY="-8" frameWidth="575" frameHeight="111"/>
+	<SubTexture name="Press Enter to Begin0001" x="1182" y="0" width="575" height="111" frameX="-250" frameY="-8" frameWidth="575" frameHeight="111"/>
+	<SubTexture name="Press Enter to Begin0002" x="1757" y="0" width="575" height="111" frameX="-250" frameY="-8" frameWidth="575" frameHeight="111"/>
+	<SubTexture name="Press Enter to Begin0003" x="1757" y="0" width="575" height="111" frameX="-250" frameY="-8" frameWidth="575" frameHeight="111"/>
+	<SubTexture name="Press Enter to Begin0004" x="2332" y="0" width="575" height="111" frameX="-250" frameY="-8" frameWidth="575" frameHeight="111"/>
+	<SubTexture name="Press Enter to Begin0005" x="2332" y="0" width="575" height="111" frameX="-250" frameY="-8" frameWidth="575" frameHeight="111"/>
+</TextureAtlas>

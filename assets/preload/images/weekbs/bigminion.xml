@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bigminion.png">
+<SubTexture name="bounce0000" x="0" y="0" width="1130" height="747" frameX="-719" frameY="-411" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0001" x="0" y="0" width="1130" height="747" frameX="-719" frameY="-411" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0002" x="1130" y="0" width="1130" height="744" frameX="-719" frameY="-414" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0003" x="1130" y="0" width="1130" height="744" frameX="-719" frameY="-414" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0004" x="0" y="1491" width="1136" height="734" frameX="-716" frameY="-425" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0005" x="2260" y="0" width="1136" height="734" frameX="-716" frameY="-425" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0006" x="1130" y="747" width="1130" height="741" frameX="-719" frameY="-417" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="bounce0007" x="0" y="747" width="1130" height="744" frameX="-719" frameY="-414" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

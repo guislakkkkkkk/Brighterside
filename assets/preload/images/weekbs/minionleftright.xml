@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minionleftright.png">
+<SubTexture name="minionleftright dance0000" x="815" y="1805" width="846" height="880" frameX="-717" frameY="-178" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0001" x="2552" y="0" width="811" height="890" frameX="-752" frameY="-170" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0002" x="0" y="1805" width="815" height="890" frameX="-748" frameY="-169" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0003" x="2552" y="890" width="674" height="879" frameX="-751" frameY="-180" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0004" x="1661" y="1805" width="674" height="879" frameX="-751" frameY="-180" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0005" x="2335" y="1805" width="674" height="879" frameX="-751" frameY="-180" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0006" x="3363" y="0" width="669" height="878" frameX="-756" frameY="-181" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0007" x="1888" y="0" width="664" height="892" frameX="-806" frameY="-168" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0008" x="0" y="0" width="608" height="909" frameX="-813" frameY="-149" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0009" x="608" y="0" width="640" height="896" frameX="-813" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0010" x="1248" y="0" width="640" height="896" frameX="-813" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0011" x="0" y="909" width="640" height="896" frameX="-813" frameY="-154" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionleftright dance0012" x="640" y="909" width="640" height="895" frameX="-813" frameY="-155" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

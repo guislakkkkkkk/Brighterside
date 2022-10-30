@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="IE.png">
+<SubTexture name="IE0000" x="3555" y="0" width="721" height="921" frameX="-577" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0001" x="0" y="2823" width="724" height="920" frameX="-583" frameY="-155" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0002" x="724" y="2823" width="726" height="920" frameX="-590" frameY="-155" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0003" x="4276" y="0" width="728" height="919" frameX="-597" frameY="-156" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0004" x="4276" y="919" width="727" height="919" frameX="-594" frameY="-156" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0005" x="1450" y="2823" width="724" height="920" frameX="-585" frameY="-155" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0006" x="718" y="1894" width="720" height="926" frameX="-572" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0007" x="2838" y="0" width="717" height="925" frameX="-556" frameY="-155" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0008" x="2838" y="925" width="713" height="922" frameX="-539" frameY="-158" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0009" x="3555" y="921" width="709" height="920" frameX="-521" frameY="-160" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0010" x="4276" y="2757" width="705" height="916" frameX="-505" frameY="-164" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0011" x="2838" y="1847" width="701" height="909" frameX="-492" frameY="-164" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0012" x="4276" y="1838" width="697" height="919" frameX="-484" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0013" x="1438" y="1894" width="696" height="926" frameX="-481" frameY="-147" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0014" x="2139" y="935" width="696" height="931" frameX="-483" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0015" x="2139" y="0" width="699" height="935" frameX="-487" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0016" x="1413" y="952" width="701" height="937" frameX="-494" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0017" x="708" y="952" width="705" height="938" frameX="-503" frameY="-135" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0018" x="0" y="952" width="708" height="942" frameX="-513" frameY="-131" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0019" x="1428" y="0" width="711" height="947" frameX="-524" frameY="-126" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0020" x="0" y="0" width="713" height="952" frameX="-536" frameY="-122" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0021" x="713" y="0" width="715" height="949" frameX="-547" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0022" x="0" y="1894" width="718" height="929" frameX="-556" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0023" x="3555" y="1841" width="718" height="920" frameX="-564" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0024" x="2174" y="2823" width="720" height="920" frameX="-568" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="IE0025" x="2894" y="2823" width="720" height="920" frameX="-570" frameY="-154" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

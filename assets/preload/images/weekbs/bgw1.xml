@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="reignbgfix.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="reignbg'0000" x="0" y="0" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0001" x="1466" y="0" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0002" x="2932" y="0" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0003" x="4398" y="0" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0004" x="5864" y="0" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0005" x="0" y="1068" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0006" x="1466" y="1068" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0007" x="2932" y="1068" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0008" x="4398" y="1068" width="1466" height="1068"/>
+	<SubTexture name="reignbg'0009" x="5864" y="1068" width="1466" height="1068"/>
+</TextureAtlas>

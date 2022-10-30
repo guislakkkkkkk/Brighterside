@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="runminion2.png">
+<SubTexture name="runminion2 run0000" x="0" y="0" width="595" height="664" frameX="-963" frameY="-475" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="runminion2 run0001" x="595" y="0" width="586" height="656" frameX="-964" frameY="-483" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="runminion2 run0002" x="1181" y="0" width="354" height="600" frameX="-1154" frameY="-527" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="runminion2 run0003" x="818" y="664" width="518" height="551" frameX="-1000" frameY="-534" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="runminion2 run0004" x="312" y="664" width="506" height="555" frameX="-1006" frameY="-531" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="runminion2 run0005" x="0" y="664" width="312" height="577" frameX="-1196" frameY="-527" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

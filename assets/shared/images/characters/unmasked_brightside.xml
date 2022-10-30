@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unmasked_brightside.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boy Idle Dance0000" x="0" y="0" width="373" height="677" frameX="-6" frameY="-9" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0001" x="373" y="0" width="373" height="684" frameX="-9" frameY="-2" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0002" x="746" y="0" width="373" height="685" frameX="-7" frameY="-1" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0003" x="1119" y="0" width="373" height="685" frameX="-7" frameY="-1" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0004" x="1492" y="0" width="374" height="686" frameX="-6" frameY="0" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0005" x="1492" y="0" width="374" height="686" frameX="-6" frameY="0" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0006" x="1866" y="0" width="374" height="686" frameX="-6" frameY="0" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0007" x="2240" y="0" width="374" height="686" frameX="-5" frameY="0" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0008" x="2614" y="0" width="374" height="686" frameX="-5" frameY="0" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0009" x="2988" y="0" width="373" height="684" frameX="-4" frameY="-2" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0010" x="3361" y="0" width="374" height="682" frameX="-2" frameY="-4" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy Idle Dance0011" x="3735" y="0" width="374" height="675" frameX="0" frameY="-11" frameWidth="382" frameHeight="686"/>
+	<SubTexture name="Boy NOTE DOWN0000" x="4109" y="0" width="374" height="669" frameX="0" frameY="0" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0001" x="4483" y="0" width="374" height="660" frameX="0" frameY="-9" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0002" x="4857" y="0" width="374" height="646" frameX="-1" frameY="-23" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0003" x="5231" y="0" width="373" height="632" frameX="0" frameY="-37" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0004" x="5604" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0005" x="5978" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0006" x="5978" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0007" x="5978" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0008" x="6352" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0009" x="6352" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0010" x="6726" y="0" width="374" height="628" frameX="0" frameY="-41" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0011" x="7100" y="0" width="374" height="629" frameX="0" frameY="-40" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE DOWN0012" x="7474" y="0" width="374" height="641" frameX="0" frameY="-28" frameWidth="375" frameHeight="669"/>
+	<SubTexture name="Boy NOTE LEFT0000" x="0" y="686" width="376" height="673" frameX="-5" frameY="-3" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0001" x="376" y="686" width="379" height="675" frameX="-2" frameY="-1" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0002" x="755" y="686" width="380" height="675" frameX="0" frameY="-1" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0003" x="1135" y="686" width="380" height="676" frameX="0" frameY="0" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0004" x="1515" y="686" width="380" height="676" frameX="0" frameY="0" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0005" x="1895" y="686" width="380" height="676" frameX="0" frameY="0" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0006" x="2275" y="686" width="380" height="676" frameX="0" frameY="0" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0007" x="2655" y="686" width="380" height="676" frameX="0" frameY="0" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0008" x="3035" y="686" width="380" height="676" frameX="0" frameY="0" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0009" x="3415" y="686" width="381" height="675" frameX="0" frameY="-1" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0010" x="3796" y="686" width="379" height="673" frameX="-3" frameY="-3" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE LEFT0011" x="4175" y="686" width="373" height="672" frameX="-13" frameY="-4" frameWidth="386" frameHeight="676"/>
+	<SubTexture name="Boy NOTE RIGHT0000" x="4548" y="686" width="383" height="668" frameX="0" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0001" x="4931" y="686" width="389" height="668" frameX="0" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0002" x="5320" y="686" width="396" height="669" frameX="-2" frameY="-4" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0003" x="5716" y="686" width="399" height="668" frameX="-2" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0004" x="6115" y="686" width="400" height="668" frameX="-2" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0005" x="6515" y="686" width="401" height="668" frameX="-3" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0006" x="6916" y="686" width="401" height="668" frameX="-3" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0007" x="7317" y="686" width="401" height="668" frameX="-3" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0008" x="7317" y="686" width="401" height="668" frameX="-3" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0009" x="7718" y="686" width="401" height="668" frameX="-3" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0010" x="0" y="1362" width="401" height="668" frameX="-3" frameY="-5" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0011" x="401" y="1362" width="401" height="669" frameX="-2" frameY="-4" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0012" x="802" y="1362" width="397" height="670" frameX="-2" frameY="-3" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE RIGHT0013" x="1199" y="1362" width="387" height="673" frameX="-1" frameY="0" frameWidth="404" frameHeight="673"/>
+	<SubTexture name="Boy NOTE UP0000" x="1586" y="1362" width="373" height="696" frameX="-1" frameY="-20" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0001" x="1959" y="1362" width="373" height="706" frameX="0" frameY="-10" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0002" x="2332" y="1362" width="373" height="715" frameX="0" frameY="-1" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0003" x="2705" y="1362" width="373" height="716" frameX="0" frameY="0" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0004" x="3078" y="1362" width="373" height="716" frameX="0" frameY="0" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0005" x="3451" y="1362" width="373" height="716" frameX="0" frameY="0" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0006" x="3451" y="1362" width="373" height="716" frameX="0" frameY="0" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0007" x="3824" y="1362" width="373" height="716" frameX="0" frameY="0" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0008" x="4197" y="1362" width="373" height="714" frameX="0" frameY="-2" frameWidth="374" frameHeight="716"/>
+	<SubTexture name="Boy NOTE UP0009" x="4570" y="1362" width="373" height="693" frameX="0" frameY="-23" frameWidth="374" frameHeight="716"/>
+</TextureAtlas>

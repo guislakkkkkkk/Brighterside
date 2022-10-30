@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="para.png"><SubTexture name="para idle0000" x="0" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0001" x="1924" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0002" x="3848" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0003" x="5772" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0004" x="7696" y="0" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0005" x="0" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0006" x="1924" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0007" x="3848" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0008" x="5772" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para idle0009" x="7696" y="1084" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para right0000" x="0" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para right0001" x="1924" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para right0002" x="3848" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para right0003" x="5772" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para right0004" x="7696" y="2168" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para right0005" x="0" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para up0000" x="1924" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para up0001" x="3848" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para up0002" x="5772" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para up0003" x="7696" y="3252" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para up0004" x="0" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para up0005" x="1924" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para down0000" x="3848" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para down0001" x="5772" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para down0002" x="7696" y="4336" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para down0003" x="0" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para down0004" x="1924" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para down0005" x="3848" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para left0000" x="5772" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para left0001" x="7696" y="5420" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para left0002" x="0" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para left0003" x="1924" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+<SubTexture name="para left0004" x="3848" y="6504" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+</TextureAtlas>

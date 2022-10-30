@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MINONUGH.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miniondown0000" x="0" y="0" width="1358" height="774"/>
+	<SubTexture name="miniondown0001" x="1358" y="0" width="1326" height="774" frameX="0" frameY="0" frameWidth="1358" frameHeight="774"/>
+	<SubTexture name="miniondown0002" x="2684" y="0" width="1328" height="774" frameX="0" frameY="0" frameWidth="1358" frameHeight="774"/>
+	<SubTexture name="miniondown0003" x="4012" y="0" width="1342" height="774" frameX="0" frameY="0" frameWidth="1358" frameHeight="774"/>
+	<SubTexture name="miniondown0004" x="5354" y="0" width="1353" height="774" frameX="0" frameY="0" frameWidth="1358" frameHeight="774"/>
+	<SubTexture name="miniondown0005" x="5354" y="0" width="1353" height="774" frameX="0" frameY="0" frameWidth="1358" frameHeight="774"/>
+	<SubTexture name="miniondown0006" x="5354" y="0" width="1353" height="774" frameX="0" frameY="0" frameWidth="1358" frameHeight="774"/>
+	<SubTexture name="minionidle0000" x="6707" y="0" width="1280" height="817" frameX="0" frameY="0" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0001" x="0" y="817" width="1280" height="817" frameX="0" frameY="0" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0002" x="1280" y="817" width="1281" height="753" frameX="0" frameY="-61" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0003" x="2561" y="817" width="1280" height="734" frameX="0" frameY="-79" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0004" x="3841" y="817" width="1280" height="734" frameX="0" frameY="-79" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0005" x="5121" y="817" width="1280" height="742" frameX="0" frameY="-72" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0006" x="6401" y="817" width="1280" height="749" frameX="0" frameY="-65" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionidle0007" x="0" y="1634" width="1280" height="761" frameX="0" frameY="-54" frameWidth="1281" frameHeight="817"/>
+	<SubTexture name="minionleft0000" x="1280" y="1634" width="1280" height="777"/>
+	<SubTexture name="minionleft0001" x="2560" y="1634" width="1280" height="777"/>
+	<SubTexture name="minionleft0002" x="3840" y="1634" width="1280" height="757" frameX="0" frameY="-19" frameWidth="1280" frameHeight="777"/>
+	<SubTexture name="minionleft0003" x="5120" y="1634" width="1280" height="731" frameX="0" frameY="-43" frameWidth="1280" frameHeight="777"/>
+	<SubTexture name="minionleft0004" x="6400" y="1634" width="1280" height="731" frameX="0" frameY="-43" frameWidth="1280" frameHeight="777"/>
+	<SubTexture name="minionleft0005" x="0" y="2411" width="1280" height="730" frameX="0" frameY="-43" frameWidth="1280" frameHeight="777"/>
+	<SubTexture name="minionleft0006" x="0" y="2411" width="1280" height="730" frameX="0" frameY="-43" frameWidth="1280" frameHeight="777"/>
+	<SubTexture name="minionright0000" x="1280" y="2411" width="1472" height="731"/>
+	<SubTexture name="minionright0001" x="2752" y="2411" width="1444" height="731" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionright0002" x="4196" y="2411" width="1431" height="730" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionright0003" x="5627" y="2411" width="1428" height="731" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionright0004" x="0" y="3142" width="1424" height="731" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionright0005" x="1424" y="3142" width="1415" height="731" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionright0006" x="1424" y="3142" width="1415" height="731" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionright0007" x="1424" y="3142" width="1415" height="731" frameX="0" frameY="0" frameWidth="1472" frameHeight="731"/>
+	<SubTexture name="minionup0000" x="2839" y="3142" width="1280" height="775" frameX="0" frameY="-44" frameWidth="1280" frameHeight="820"/>
+	<SubTexture name="minionup0001" x="4119" y="3142" width="1280" height="809" frameX="0" frameY="-11" frameWidth="1280" frameHeight="820"/>
+	<SubTexture name="minionup0002" x="5399" y="3142" width="1280" height="820"/>
+	<SubTexture name="minionup0003" x="6679" y="3142" width="1280" height="820"/>
+	<SubTexture name="minionup0004" x="0" y="3962" width="1280" height="807" frameX="0" frameY="-13" frameWidth="1280" frameHeight="820"/>
+	<SubTexture name="minionup0005" x="0" y="3962" width="1280" height="807" frameX="0" frameY="-13" frameWidth="1280" frameHeight="820"/>
+	<SubTexture name="minionup0006" x="1280" y="3962" width="1280" height="807" frameX="0" frameY="-13" frameWidth="1280" frameHeight="820"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OO.png">
+<SubTexture name="OO0000" x="4149" y="0" width="701" height="893" frameX="-608" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0001" x="0" y="2774" width="702" height="894" frameX="-615" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0002" x="0" y="3668" width="705" height="893" frameX="-621" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0003" x="705" y="3668" width="706" height="893" frameX="-628" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0004" x="1411" y="3668" width="706" height="893" frameX="-631" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0005" x="2117" y="3668" width="706" height="893" frameX="-629" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0006" x="702" y="2774" width="705" height="894" frameX="-624" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0007" x="1383" y="1865" width="703" height="896" frameX="-617" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0008" x="2086" y="1865" width="700" height="896" frameX="-609" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0009" x="3451" y="0" width="698" height="895" frameX="-599" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0010" x="4149" y="893" width="696" height="893" frameX="-588" frameY="-155" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0011" x="4149" y="2679" width="693" height="892" frameX="-578" frameY="-156" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0012" x="4149" y="1786" width="690" height="893" frameX="-569" frameY="-155" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0013" x="696" y="1865" width="687" height="905" frameX="-562" frameY="-143" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0014" x="2766" y="0" width="685" height="914" frameX="-558" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0015" x="2082" y="0" width="684" height="920" frameX="-556" frameY="-128" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0016" x="1376" y="936" width="684" height="923" frameX="-558" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0017" x="690" y="936" width="686" height="926" frameX="-561" frameY="-122" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0018" x="0" y="936" width="690" height="929" frameX="-565" frameY="-118" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0019" x="694" y="0" width="692" height="933" frameX="-571" frameY="-114" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0020" x="0" y="0" width="694" height="936" frameX="-579" frameY="-111" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0021" x="1386" y="0" width="696" height="931" frameX="-586" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0022" x="0" y="1865" width="696" height="909" frameX="-593" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0023" x="1407" y="2774" width="699" height="894" frameX="-597" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0024" x="2106" y="2774" width="699" height="894" frameX="-601" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="OO0025" x="2805" y="2774" width="699" height="894" frameX="-602" frameY="-152" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

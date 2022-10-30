@@ -1,0 +1,13 @@
+function onCreatePost()
+    setProperty('timeTxt.x', 162.5)
+    setProperty('timeTxt.y', 80)
+    setProperty('timeBar.visible', false)
+    setProperty('timeBarBG.visible', false)
+    setProperty('healthBar.visible', false)
+    setProperty('healthBarBG.visible', false)
+    setProperty('rating.visible', false)
+    setProperty('score.visible', false)
+    setProperty('ntCombo.visible', false)
+    setProperty('iconP1.visible', false)
+    setProperty('iconP2.visible', false)
+end

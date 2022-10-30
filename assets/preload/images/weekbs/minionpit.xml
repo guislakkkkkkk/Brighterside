@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minionpit.png">
+<SubTexture name="idle0000" x="0" y="0" width="2156" height="348" frameX="-136" frameY="-855" frameWidth="2480" frameHeight="1432" />
+<SubTexture name="idle0001" x="2156" y="0" width="2175" height="339" frameX="-127" frameY="-859" frameWidth="2480" frameHeight="1432" />
+<SubTexture name="idle0002" x="2156" y="0" width="2175" height="339" frameX="-127" frameY="-859" frameWidth="2480" frameHeight="1432" />
+<SubTexture name="idle0003" x="0" y="348" width="2156" height="348" frameX="-134" frameY="-855" frameWidth="2480" frameHeight="1432" />
+<SubTexture name="idle0004" x="0" y="696" width="2156" height="348" frameX="-136" frameY="-855" frameWidth="2480" frameHeight="1432" />
+</TextureAtlas>

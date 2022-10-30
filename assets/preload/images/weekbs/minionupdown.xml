@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minionupdown.png">
+<SubTexture name="minionupdown dance0000" x="0" y="0" width="761" height="976" frameX="-997" frameY="-82" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0001" x="1514" y="976" width="753" height="926" frameX="-1004" frameY="-133" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0002" x="761" y="0" width="764" height="939" frameX="-997" frameY="-119" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0003" x="1525" y="0" width="758" height="937" frameX="-997" frameY="-121" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0004" x="0" y="976" width="757" height="937" frameX="-997" frameY="-121" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0005" x="757" y="976" width="757" height="933" frameX="-997" frameY="-125" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0006" x="3063" y="1674" width="784" height="782" frameX="-997" frameY="-275" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0007" x="2283" y="0" width="780" height="841" frameX="-997" frameY="-216" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0008" x="3063" y="838" width="785" height="836" frameX="-997" frameY="-221" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0009" x="785" y="1913" width="785" height="838" frameX="-997" frameY="-219" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0010" x="1570" y="1913" width="785" height="838" frameX="-997" frameY="-219" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0011" x="3063" y="0" width="785" height="838" frameX="-997" frameY="-219" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="minionupdown dance0012" x="0" y="1913" width="785" height="840" frameX="-997" frameY="-217" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

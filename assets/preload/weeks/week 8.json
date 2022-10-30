@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Saving Face",
+			"femboy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Reign",
+			"brightbitch",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Personal Invasion",
+			"leech",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "brighterside",
+	"difficulties": "hard, hard, hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Get out of my Head",
+	"weekName": "Knife Party!!!",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
